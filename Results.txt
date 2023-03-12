@@ -1,0 +1,6 @@
+Buy and Hold: Profit= Rs 2287350
+Previous Day High/Low Breakout: Profit= Rs1528400 
+Fixed Stop Loss (1%) and Take Profit (2%) Percentage: Loss= Rs 54801.75
+Fixed Stop Loss (1%) and Take Profit (5%) Percentage: Profit= Rs 1480599.50
+Fixed Stop Loss (1%) and Take Profit (10%) Percentage: Profit= Rs 610549.75
+Bollinger Bands: Profit = Rs3864846.68  
