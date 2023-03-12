@@ -41,7 +41,7 @@ This strategy involves analyzing the previous day's high and low prices to deter
 | Bollinger Bands | Rs 3864846.68 | 32.45% |
 
 
-#Assumptions:
+# Assumptions:
 
 -   The initial investment is considered to be Rs 11,918,000, which is the equivalent of 1000 trades of Nifty stocks at the first tick data price.
 -   All profits and losses are calculated based on this initial investment.
